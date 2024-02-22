@@ -1,5 +1,20 @@
 # Pygame Tutorials
 
+## Pygame-ce
+
+I am switching to [pygame-ce](https://pyga.me/). It is a drop-in replacement for pygame. You do not need to change your code.
+
+It aims to offer more bug fixes, improvments, and extra features.
+
+You install the library in the traditional way. You will want to uninstall pygame first.
+
+```python
+pip uninstall pygame
+pip install pygame-ce
+```
+
+## History
+
 - Car Crash - Update 01/31/2024
 - Flappy Bird
 - Chapter 11 Pong
@@ -7,6 +22,7 @@
 - Chapter 11 Bouncing Balls - in progress
 
 ### Purpose
+
 I am an Information Technology Instructor at [Western Nebraska Community College](https://www.wncc.edu). I teach Information Technology, CyberSecurity and Computer Science. Best job ever!
 
 This is a collection of PyGame tutorials for my Computer Science classes at Western Nebraska Community College.
