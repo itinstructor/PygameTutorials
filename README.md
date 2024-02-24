@@ -13,6 +13,12 @@ pip uninstall pygame
 pip install pygame-ce
 ```
 
+## Car Crash
+
+A driving game tutorial based on a Car Crash tutorial I found somewhere. The assets are the same, the code is completely different. It starts as a script, and ends with OOP.
+
+![Car Crash Screenshot](./img/carcrash.png)
+
 ## History
 
 - Car Crash - Update 01/31/2024
