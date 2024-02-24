@@ -15,7 +15,7 @@ pip install pygame-ce
 
 ## Car Crash
 
-A driving game tutorial based on a Car Crash tutorial I found somewhere. The assets are the same, the code is completely different. It starts as a script, and ends with OOP.
+A driving game tutorial based on a Car Crash tutorial I found somewhere. The assets are the same, the code is completely different. The first iteration starts as a script. The project ends in OOP.
 
 ![Car Crash Screenshot](./img/carcrash.png)
 
