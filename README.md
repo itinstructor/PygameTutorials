@@ -19,13 +19,12 @@ A driving game tutorial based on a Car Crash tutorial I found somewhere. The ass
 
 ![Car Crash Screenshot](./img/carcrash.png)
 
-## History
+## Games
 
-- Car Crash - Update 01/31/2024
+- Car Crash
 - Flappy Bird
-- Chapter 11 Pong
-- Chapter 11 Tractor Pong
-- Chapter 11 Bouncing Balls - in progress
+- Pong
+- Tractor Pong
 
 ### Purpose
 
