@@ -2,7 +2,7 @@
 
 ## Pygame-ce
 
-I am switching to [pygame-ce](https://pyga.me/). It is a drop-in replacement for pygame. You do not need to change your code.
+I use [pygame-ce](https://pyga.me/). It is a drop-in replacement for pygame. You do not need to change your code.
 
 It aims to offer more bug fixes, improvments, and extra features.
 
@@ -32,7 +32,8 @@ I am an Information Technology Instructor at [Western Nebraska Community College
 
 This is a collection of PyGame tutorials for my Computer Science classes at Western Nebraska Community College.
 
-Visit our Facebook page: [Facebook WNCC IT Program](https://www.facebook.com/wnccitprogram/)
+- Facebook: [Facebook WNCC IT Program](https://www.facebook.com/wnccitprogram/)
+- YouTube: [YouTube WINCC IT Program](https://www.youtube.com/@williamloringitinstructor)
 
 ### License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
